@@ -1,6 +1,6 @@
 ---
 createdAt: 2022-10-14T05:52:05.349Z
-title: sdsEasy excerpt from content
+title: sdsdsEasy excerpt from content
 ---
 
 You can add an excerpt easily by writing `<!--MORE-->` in lowercase in the content.
