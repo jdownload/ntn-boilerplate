@@ -1,5 +1,5 @@
 ---
-createdAt: 2021-02-28
+createdAt: 2022-06-24T05:52:05.349Z
 title: Easy excerpt from content
 ---
 
