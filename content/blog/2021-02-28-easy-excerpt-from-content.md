@@ -1,6 +1,6 @@
 ---
-createdAt: 2022-04-24T05:52:05.349Z
-title: Easy excerpt from content
+createdAt: 2022-04-09T05:52:05.349Z
+title: sdsEasy excerpt from content
 ---
 
 You can add an excerpt easily by writing `<!--MORE-->` in lowercase in the content.
